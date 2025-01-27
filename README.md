@@ -87,6 +87,6 @@ Setiap buku memiliki struktur data berikut: <br>
 
 ## 🛠️ Pengujian API
 - __Postman Collection:__ Tersedia dalam proyek untuk mempermudah pengujian semua endpoint.
-- __Postman Environment:__ Disediakan untuk mengelola variabel, seperti base URL, sehingga pengujian lebih efisien.
+- __Postman Environment:__ Disediakan untuk mengelola variabel, seperti base URL, sehingga pengujian lebih efisien. <br><br>
 
 Terima kasih telah menggunakan __Bookshelf API!__ Jika Anda memiliki ide atau saran untuk pengembangan lebih lanjut, silakan buat __issue__ atau ajukan __pull request.__ 😊
